@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+
+}
+
+.mainContainer{
+    width: 60%;
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+}
